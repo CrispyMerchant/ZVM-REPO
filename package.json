@@ -1,0 +1,26 @@
+{
+  "name": "zvm-repo",
+  "version": "0.1.0",
+  "description": "This module allows for a footer to be generated dynamically for JS applications with an updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThePieTheory/ZVM-REPO.git"
+  },
+  "keywords": [
+    "Footer",
+    "First"
+  ],
+  "author": "thepietheory <cellozack@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThePieTheory/ZVM-REPO/issues"
+  },
+  "homepage": "https://github.com/ThePieTheory/ZVM-REPO#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
